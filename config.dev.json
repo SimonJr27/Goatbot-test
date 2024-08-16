@@ -3,7 +3,7 @@
     "email": "ryunosukeryo0@gmail.com",
     "password": "",
     "2FASecret": "",
-    "i_user": "x",
+    "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
     "intervalGetNewCookie": 1440,
@@ -18,7 +18,8 @@
   },
   "adminBot": [
     "61556172651835",
-    "61562378213770","100092549951973"
+    "61562378213770",
+    "100092549951973"
   ],
   "whiteListMode": {
     "enable": false,
